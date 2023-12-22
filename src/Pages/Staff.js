@@ -4,7 +4,7 @@ import Banner from '../Banner';
 import TEAM from '../assets/Team.jpg';
 import TEAM2 from '../assets/Team2.jpg';
 import Zein from '../assets/Zein.PNG';
-import Maher from '../assets/Maher.PNG';
+import Maher from '../assets/Maher.jpg';
 import Ashraf from '../assets/Ashraf.PNG';
 
 const people = [
