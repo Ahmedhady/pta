@@ -16,7 +16,7 @@ const people = [
     {
         name: 'Maher',
         role: 'Head Coach',
-        imageUrl: Maher,
+        imageUrl: Zein,
       },
       {
         name: 'Ashraf',
