@@ -11,10 +11,9 @@ import GYM2 from '../assets/Gym2.jpg';
 import COURT from '../assets/Court.jpg';
 import COURT1 from '../assets/Court1.jpg';
 import COURT2 from '../assets/Court2.jpg';
-import BLUECOURT from '../assets/BlueCourt.jpg';
 import CLAYCOURT from '../assets/ClayCourt.jpg';
-import POOL from '../assets/Pool.jpeg';
-import GYMM from '../assets/Gymm.jpeg';
+import POOL from '../assets/Pool.jpg';
+import GYMM from '../assets/Gymm.jpg';
 import CourtV from '../assets/CourtV.jpg';
 
 

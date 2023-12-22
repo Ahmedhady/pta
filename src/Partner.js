@@ -1,4 +1,4 @@
-import AUN from './assets/AunLogo.jpeg';
+import AUN from './assets/AunLogo.jpg';
 import CEM from './assets/CemLogo.png';
 import ETF from './assets/EtfLogo.jpg';
 import PET from './assets/PetLogo.jpeg';
