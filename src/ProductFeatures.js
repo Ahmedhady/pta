@@ -9,7 +9,7 @@ import TEAM2 from './assets/Team2.jpg';
 import TEAM3 from './assets/Team3.jpg';
 import COMM1 from './assets/Comm1.jpg';
 import MENTAL from './assets/Mental.jpg';
-import TENAD from './assets/TenAd.PNG';
+import TENAD from './assets/TenAd.jpg';
 
 
 const features = [

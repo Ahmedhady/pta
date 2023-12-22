@@ -3,9 +3,9 @@ import Navbar from '../Navbar';
 import Banner from '../Banner';
 import TEAM from '../assets/Team.jpg';
 import TEAM2 from '../assets/Team2.jpg';
-import Zein from '../assets/Zein.PNG';
+import Zein from '../assets/Zein.jpg';
 import Maher from '../assets/Maher.jpg';
-import Ashraf from '../assets/Ashraf.PNG';
+import Ashraf from '../assets/Ashraf.jpg';
 
 const people = [
     {
@@ -16,7 +16,7 @@ const people = [
     {
         name: 'Maher',
         role: 'Head Coach',
-        imageUrl: Zein,
+        imageUrl: Maher,
       },
       {
         name: 'Ashraf',

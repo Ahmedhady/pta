@@ -1,6 +1,6 @@
-import BLUECOURT from './assets/BlueCourt.PNG';
-import BLUE from './assets/Blue.PNG';
-import TENAD from './assets/TenAd.PNG';
+import BLUECOURT from './assets/BlueCourt.jpg';
+import BLUE from './assets/Blue.jpg';
+import TENAD from './assets/TenAd.jpg';
 
 import PF1 from './assets/PF1.jpg';
 import PF2 from './assets/PF2.jpg';

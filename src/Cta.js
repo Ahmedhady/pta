@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
-import COVER from './assets/Cover.PNG';
-import BLUECOURT from './assets/BlueCourt.PNG';
+import COVER from './assets/Cover.jpg';
+import BLUECOURT from './assets/BlueCourt.jpg';
 
 export default function Example() {
     return (

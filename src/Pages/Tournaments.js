@@ -5,7 +5,7 @@ import U10U from '../assets/10.jpg';
 import JUN from '../assets/Jun.jpg';
 import ADULT from '../assets/Adult.jpg';
 import BEG from '../assets/Beg.jpg';
-import TENAD from '../assets/TenAd.PNG';
+import TENAD from '../assets/TenAd.jpg';
 import COMP from '../assets/Comp.jpg';
 import L1 from '../assets/L1.jpg';
 import L2 from '../assets/L2.jpg';
