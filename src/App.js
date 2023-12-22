@@ -14,7 +14,7 @@ import PageNotFound from './PageNotFound';
 
 function App() {
   return (
-    <Fragment>
+    
    <Routes>
    <Route path="/" element={<Home />} />
    <Route path="/activities" element={<Home/>}/>
@@ -28,7 +28,7 @@ function App() {
    <Route path="/tournaments" element={<Tournaments/>}/>
    <Route path="*" element={<PageNotFound />} />
   </Routes>
-  </Fragment>
+ 
   );
 }
 export default App;
